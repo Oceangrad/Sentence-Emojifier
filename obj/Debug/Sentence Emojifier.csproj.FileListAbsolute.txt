@@ -1,0 +1,10 @@
+B:\Users\Jojoka\source\repos\Sentence Emojifier\bin\Debug\Sentence Emojifier.exe.config
+B:\Users\Jojoka\source\repos\Sentence Emojifier\bin\Debug\Sentence Emojifier.exe
+B:\Users\Jojoka\source\repos\Sentence Emojifier\bin\Debug\Sentence Emojifier.pdb
+B:\Users\Jojoka\source\repos\Sentence Emojifier\obj\Debug\Sentence Emojifier.csproj.SuggestedBindingRedirects.cache
+B:\Users\Jojoka\source\repos\Sentence Emojifier\obj\Debug\Sentence_Emojifier.Properties.Resources.resources
+B:\Users\Jojoka\source\repos\Sentence Emojifier\obj\Debug\Sentence Emojifier.csproj.GenerateResource.cache
+B:\Users\Jojoka\source\repos\Sentence Emojifier\obj\Debug\Sentence Emojifier.csproj.CoreCompileInputs.cache
+B:\Users\Jojoka\source\repos\Sentence Emojifier\obj\Debug\Sentence Emojifier.exe
+B:\Users\Jojoka\source\repos\Sentence Emojifier\obj\Debug\Sentence Emojifier.pdb
+B:\Users\Jojoka\source\repos\Sentence Emojifier\obj\Debug\Sentence_Emojifier.SentenceEmojifierForm.resources
