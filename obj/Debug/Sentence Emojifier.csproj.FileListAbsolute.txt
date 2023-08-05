@@ -8,3 +8,16 @@ B:\Users\Jojoka\source\repos\Sentence Emojifier\obj\Debug\Sentence Emojifier.csp
 B:\Users\Jojoka\source\repos\Sentence Emojifier\obj\Debug\Sentence Emojifier.exe
 B:\Users\Jojoka\source\repos\Sentence Emojifier\obj\Debug\Sentence Emojifier.pdb
 B:\Users\Jojoka\source\repos\Sentence Emojifier\obj\Debug\Sentence_Emojifier.SentenceEmojifierForm.resources
+C:\Users\Jojoka\Source\Repos\Sentence-Emojifier\bin\Debug\Sentence Emojifier.exe.config
+C:\Users\Jojoka\Source\Repos\Sentence-Emojifier\bin\Debug\Sentence Emojifier.exe
+C:\Users\Jojoka\Source\Repos\Sentence-Emojifier\bin\Debug\Sentence Emojifier.pdb
+C:\Users\Jojoka\Source\Repos\Sentence-Emojifier\bin\Debug\Emojify.dll
+C:\Users\Jojoka\Source\Repos\Sentence-Emojifier\bin\Debug\Emojify.pdb
+C:\Users\Jojoka\Source\Repos\Sentence-Emojifier\obj\Debug\Sentence Emojifier.csproj.SuggestedBindingRedirects.cache
+C:\Users\Jojoka\Source\Repos\Sentence-Emojifier\obj\Debug\Sentence_Emojifier.SentenceEmojifierForm.resources
+C:\Users\Jojoka\Source\Repos\Sentence-Emojifier\obj\Debug\Sentence_Emojifier.Properties.Resources.resources
+C:\Users\Jojoka\Source\Repos\Sentence-Emojifier\obj\Debug\Sentence Emojifier.csproj.GenerateResource.cache
+C:\Users\Jojoka\Source\Repos\Sentence-Emojifier\obj\Debug\Sentence Emojifier.csproj.CoreCompileInputs.cache
+C:\Users\Jojoka\Source\Repos\Sentence-Emojifier\obj\Debug\Sentence Emojifier.csproj.CopyComplete
+C:\Users\Jojoka\Source\Repos\Sentence-Emojifier\obj\Debug\Sentence Emojifier.exe
+C:\Users\Jojoka\Source\Repos\Sentence-Emojifier\obj\Debug\Sentence Emojifier.pdb

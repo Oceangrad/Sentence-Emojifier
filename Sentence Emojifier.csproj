@@ -48,6 +48,9 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
+    <Reference Include="Emojify">
+      <HintPath>B:\Users\Jojoka\source\repos\Emojify\bin\Release\Emojify.dll</HintPath>
+    </Reference>
     <Reference Include="System" />
     <Reference Include="System.Core" />
     <Reference Include="System.Xml.Linq" />
@@ -61,7 +64,6 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="EmojiCollection.cs" />
     <Compile Include="SentenceEmojifierForm.cs">
       <SubType>Form</SubType>
     </Compile>
